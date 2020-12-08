@@ -1,0 +1,78 @@
+
+
+
+body { background: hite;
+color :white;
+font-family: TIMES, Serif;
+}
+
+h1{ color: white;
+text-align: center ;
+ font-size: 15px;
+ font-family: 'MS Sans Serif', Geneva, sans-serif;
+margin: 30px auto;
+}
+
+
+h2 { 
+    color: #eb7034;
+    text-decoration: underline;
+
+padding: : 20px;
+text-align: center;}
+
+p{ color: green;
+
+}    
+
+
+html{ background: #97c2dc8c;
+} 
+
+#photo { border-radius: 50%;
+	width: 130px;
+	box-shadow: 3px 3px 3px white;
+	align-items: center;
+
+}
+#kedge{ width: 100px;
+
+	align-items: left;
+	}
+
+#logo1{ 
+	width: 100px;
+	align-items: top;
+	margin: : 30px;
+	padding: 50px
+}
+ 
+#logo{ 
+	width: 20px;
+	
+}
+
+#logo2{ 
+	width: 25px;
+	align-items: left;
+
+}
+
+ol{ 
+	color: black;
+	
+}
+
+.container { 
+	width: 700px;
+	margin:40px auto;
+}
+.card-white { 
+	background: mistyrose;
+	padding: 40px;
+	box-shadow:0px 10px 30px black;
+	border-radius: 4px;
+	margin: 20px 0px;
+	
+}
+
